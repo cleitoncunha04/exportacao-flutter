@@ -4,7 +4,7 @@
 
 Este é um projeto Flutter, criado para gerencia as exportações do Brasil, fazendo o controle dos produtos pelos seus NCMs.
 
-![Projeto rodando](https://imgur.com/hO7NlwU)
+![Projeto rodando](https://i.imgur.com/hO7NlwU.gif)
 
 ## **Estrutura do Projeto**
 
