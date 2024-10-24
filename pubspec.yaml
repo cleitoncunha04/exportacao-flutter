@@ -1,0 +1,39 @@
+name: projetinho_final
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_spinkit: ^5.2.0
+  intl: ^0.18.1
+  msix: ^3.14.2
+  mysql1: ^0.20.0
+  mysql_client: ^0.0.27
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/assets/images/nao-pergunte.png
+    - lib/assets/images/caixa.png
+    - lib/assets/images/remover.png
+    - lib/assets/images/empty.png
+
+msix_config:
+  display_name: SGVEx
+  publisher_display_name: Cunha Corp
+  identity_name: corp.cunha.SGVEx
+  msix_version: 1.0.0.0
+  certificate_path: C:\Users\cleit\Privado.pfx
+  certificate_password: 1234
