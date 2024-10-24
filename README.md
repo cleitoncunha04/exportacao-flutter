@@ -2,7 +2,7 @@
 
 # **Projetinho Final**
 
-Este é um projeto Flutter, criado para [objetivo ou função do projeto].
+Este é um projeto Flutter, criado para gerencia as exportações do Brasil, fazendo o controle dos produtos pelos seus NCMs.
 
 ## **Estrutura do Projeto**
 
